@@ -1,0 +1,7 @@
+C:\Users\Administrator.USER-20190309HS\Desktop\MPKI守护者\MPKIDefender\MPKIDefender\bin\Release\MPKIDefender.exe.config
+C:\Users\Administrator.USER-20190309HS\Desktop\MPKI守护者\MPKIDefender\MPKIDefender\bin\Release\MPKIDefender.exe
+C:\Users\Administrator.USER-20190309HS\Desktop\MPKI守护者\MPKIDefender\MPKIDefender\bin\Release\MPKIDefender.pdb
+C:\Users\Administrator.USER-20190309HS\Desktop\MPKI守护者\MPKIDefender\MPKIDefender\obj\Release\MPKIDefender.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.USER-20190309HS\Desktop\MPKI守护者\MPKIDefender\MPKIDefender\obj\Release\MPKIDefender.exe
+C:\Users\Administrator.USER-20190309HS\Desktop\MPKI守护者\MPKIDefender\MPKIDefender\obj\Release\MPKIDefender.pdb
+C:\Users\Administrator.USER-20190309HS\Desktop\MPKI守护者\MPKIDefender\MPKIDefender\obj\Release\MPKIDefender.csprojAssemblyReference.cache
