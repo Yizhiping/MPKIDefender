@@ -5,3 +5,10 @@ C:\Users\Administrator.USER-20190309HS\Desktop\MPKI守护者\MPKIDefender\MPKIDe
 C:\Users\Administrator.USER-20190309HS\Desktop\MPKI守护者\MPKIDefender\MPKIDefender\obj\Debug\MPKIDefender.csproj.CoreCompileInputs.cache
 C:\Users\Administrator.USER-20190309HS\Desktop\MPKI守护者\MPKIDefender\MPKIDefender\obj\Debug\MPKIDefender.exe
 C:\Users\Administrator.USER-20190309HS\Desktop\MPKI守护者\MPKIDefender\MPKIDefender\obj\Debug\MPKIDefender.pdb
+C:\Users\Ping_yi\Desktop\MPKIDefender-master\MPKIDefender\bin\Debug\MPKIDefender.exe.config
+C:\Users\Ping_yi\Desktop\MPKIDefender-master\MPKIDefender\bin\Debug\MPKIDefender.exe
+C:\Users\Ping_yi\Desktop\MPKIDefender-master\MPKIDefender\bin\Debug\MPKIDefender.pdb
+C:\Users\Ping_yi\Desktop\MPKIDefender-master\MPKIDefender\obj\Debug\MPKIDefender.csproj.CoreCompileInputs.cache
+C:\Users\Ping_yi\Desktop\MPKIDefender-master\MPKIDefender\obj\Debug\MPKIDefender.exe
+C:\Users\Ping_yi\Desktop\MPKIDefender-master\MPKIDefender\obj\Debug\MPKIDefender.pdb
+C:\Users\Ping_yi\Desktop\MPKIDefender-master\MPKIDefender\obj\Debug\MPKIDefender.csprojAssemblyReference.cache
